@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Projet-Atelier-React-JS/static/css/main.9b8c2de4.css",
+    "main.js": "/Projet-Atelier-React-JS/static/js/main.49175cf4.js",
+    "index.html": "/Projet-Atelier-React-JS/index.html",
+    "main.9b8c2de4.css.map": "/Projet-Atelier-React-JS/static/css/main.9b8c2de4.css.map",
+    "main.49175cf4.js.map": "/Projet-Atelier-React-JS/static/js/main.49175cf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8c2de4.css",
+    "static/js/main.49175cf4.js"
+  ]
+}
