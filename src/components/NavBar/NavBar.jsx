@@ -18,7 +18,7 @@ const NavBar = () => {
               <Link to="/about" className='text-decoration-none text-dark'>About</Link>
               <Link to="/contact" className='text-decoration-none text-dark'>Contact</Link>
             </Nav>
-              <Link to="/connexion" className="btn btn-outline-success ms-5">DECONNEXION</Link>
+            <Link to="/connexion" className="btn btn-outline-dark ms-5">DECONNEXION</Link>
           </Navbar.Collapse>
         </Container>
       </Navbar>
